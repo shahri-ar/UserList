@@ -1,5 +1,5 @@
 ### instal
 npm i
 
-###run
+### run
 npm run start
